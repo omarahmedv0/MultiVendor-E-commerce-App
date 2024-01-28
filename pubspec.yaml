@@ -1,0 +1,91 @@
+name: talabat_clone
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+
+dependencies:
+  #location: ^5.0.3
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  location: ^5.0.3
+  carousel_slider: ^4.2.1
+  lottie: ^3.0.0
+  flutter_rating_bar: ^4.0.1
+  google_maps_flutter: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.3.9
+
+
+  flutter_lints: ^2.0.0
+
+flutter_native_splash:
+  background_image:  assets/images/background_splash.png
+  
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/welcome/
+    - assets/images/categories/
+    - assets/images/main/
+    - assets/images/banners/
+    - assets/images/
+    - assets/images/mart/
+    - assets/icons/
+    - assets/animation_icon/
+
+
+
+  fonts:
+    - family: DM_Sans
+      fonts:
+        - asset: assets/fonts/dm_sans/DMSans-Black.ttf
+          style: normal
+        - asset: assets/fonts/dm_sans/DMSans-BlackItalic.ttf
+          style: italic
+        - asset: assets/fonts/dm_sans/DMSans-Bold.ttf
+          style: normal
+        - asset: assets/fonts/dm_sans/DMSans-BoldItalic.ttf
+          style: italic
+        - asset: assets/fonts/dm_sans/DMSans-ExtraBold.ttf
+          style: normal
+        - asset: assets/fonts/dm_sans/DMSans-ExtraBoldItalic.ttf
+          style: italic
+        - asset: assets/fonts/dm_sans/DMSans-ExtraLight.ttf
+          style: normal
+        - asset: assets/fonts/dm_sans/DMSans-ExtraLightItalic.ttf
+          style: italic
+        - asset: assets/fonts/dm_sans/DMSans-Italic.ttf
+          style: italic
+        - asset: assets/fonts/dm_sans/DMSans-Light.ttf
+          style: normal
+        - asset: assets/fonts/dm_sans/DMSans-LightItalic.ttf
+          style: italic
+        - asset: assets/fonts/dm_sans/DMSans-Medium.ttf
+          style: normal
+        - asset: assets/fonts/dm_sans/DMSans-MediumItalic.ttf
+          style: italic
+        - asset: assets/fonts/dm_sans/DMSans-Regular.ttf
+          style: normal
+        - asset: assets/fonts/dm_sans/DMSans-SemiBold.ttf
+          style: normal
+        - asset: assets/fonts/dm_sans/DMSans-SemiBoldItalic.ttf
+          style: italic
+        - asset: assets/fonts/dm_sans/DMSans-Thin.ttf
+          style: normal
+        - asset: assets/fonts/dm_sans/DMSans-ThinItalic.ttf
+          style: italic
+       
