@@ -4,6 +4,8 @@ A multi vendor e-commerce app
 ## Built using
 - Flutter framework
 - MVVM design architecture
+- Flutter Lottie for animations
+
 
 ## Features
 #### Splash Screen
@@ -33,9 +35,20 @@ A multi vendor e-commerce app
 #### Health Category Screens
 <img src="Screenshot_2024-01-28-19-02-24-10_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/>  <img src="Screenshot_2024-01-28-19-02-34-83.jpg" alt="drawing" style="width:200px;"/>  <img src="Screenshot_2024-01-28-19-02-38-79_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/>  <img src="Screenshot_2024-01-28-19-02-41-51_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/>  
 
-#### Cart amd Checkout Screens
-<img src=".jpg" alt="drawing" style="width:200px;"/>  
+#### Cart and Checkout Screens
+<img src="photo_2024-01-29_02-19-51.jpg" alt="drawing" style="width:200px;"/>  <img src="photo_2024-01-29_02-19-54.jpg" alt="drawing" style="width:200px;"/>  
 
+#### Orders Screen
+<img src="Screenshot_2024-01-28-19-03-15-98_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/>  
+
+#### Orders Details Screen
+<img src="Screenshot_2024-01-28-19-03-35-09_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/>  <img src="Screenshot_2024-01-28-19-03-39-20_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/>  <img src="Screenshot_2024-01-28-19-03-43-74_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/>  <img src="Screenshot_2024-01-28-19-03-48-83_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/>  <img src="Screenshot_2024-01-28-19-03-53-51_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/> <img src="Screenshot_2024-01-28-19-03-57-53_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/>  
+
+#### Rate Screen
+<img src="Screenshot_2024-01-28-19-04-03-58_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/>  
+
+#### Offers Screen
+<img src="Screenshot_2024-01-28-19-03-12-30_13dbce383692a6ce21ef4a2a16c9f39f.jpg" alt="drawing" style="width:200px;"/>  
 
 ## Contact us
 * What's app: 01275318664
