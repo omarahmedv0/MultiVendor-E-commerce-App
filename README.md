@@ -1,6 +1,6 @@
 # Talabat App
 A multi vendor e-commerce app
-
+ 
 ## Built using
 - Flutter framework
 - MVVM design architecture
