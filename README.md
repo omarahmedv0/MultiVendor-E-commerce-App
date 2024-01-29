@@ -5,7 +5,13 @@ A multi vendor e-commerce app
 - Flutter framework
 - MVVM design architecture
 - Flutter Lottie for animations
-
+  
+## Its advantages
+- Responsive UI
+- Clean Code
+- Can add any new features easily
+- Easy to adjust colors and fonts
+- Ready to integrate with API
 
 ## Features
 #### Splash Screen
